@@ -60,7 +60,7 @@
       <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
     </div>
       <div class="paragraph-container">
-      <p id="paragraph11">Gasesti pe calendar langa mini mapa detalii despre ora fiecaruia eveniment</p> 
+      <p id="paragraph11">Gasesti pe calendar langa mini mapa orele tuturor evenimentelor </p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph11')">Copy</button>
     </div>
   </div>
