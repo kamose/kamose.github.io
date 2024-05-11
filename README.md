@@ -1,5 +1,6 @@
 body {
-    background-image: url('images/background.jpg');
+    background-image: url(![370684707_132915603218994_364455534809143991_n](https://github.com/kamose/kamose.github.io/assets/52388598/00e08e14-e2fe-4a28-a15f-bd4214436fc8)
+);
 }
 
 <!DOCTYPE html>
