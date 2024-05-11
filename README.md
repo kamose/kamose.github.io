@@ -1,6 +1,7 @@
 body {
-    background-image: url('[https://github.com/kamose/kamose.github.io/assets/images/370684707_132915603218994_364455534809143991_n.jpg](https://github.com/kamose/kamose.github.io/blob/main/370684707_132915603218994_364455534809143991_n.jpg)');
+    background-image: url('https://github.com/kamose/kamose.github.io/assets/images/ronaldo.jpg');
 }
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
