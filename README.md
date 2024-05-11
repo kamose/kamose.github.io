@@ -6,7 +6,7 @@
 <title>Raspunsuri pentru fraieri</title>
 <style>
   body {
-    background-image: url('https://i.imgur.com/xNnG46j.jpg');
+    background-image: url('https://i.imgur.com/1QXPbQX.jpeg');
   color: white;
   }
 </style>
