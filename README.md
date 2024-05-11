@@ -16,18 +16,20 @@
   
   .column {
     width: 47%;
-    margin-right: 20px; /* Adaugăm spațiu între coloane */
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column; /* Așezăm elementele pe coloană */
   }
   
   .paragraph-container {
-    margin-bottom: 20px;
     position: relative;
+    display: flex; /* Așezăm butonul și textul pe aceeași linie */
+    align-items: center; /* Aliniem vertical butonul și textul */
+    margin-bottom: 20px;
   }
   
   .copy-button {
-    position: absolute;
-    top: 20px; /* Ajustăm poziția butonului de copiere */
-    right: -30px; /* Ajustăm poziția butonului de copiere */
+    margin-left: 10px; /* Adăugăm un spațiu mic între buton și text */
   }
 </style>
 </head>
