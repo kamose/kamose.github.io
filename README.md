@@ -43,6 +43,5 @@ function copyToClipboard(elementId) {
 </body>
 </html>
 
-body {
-    background-image: url('https://i.imgur.com/xNnG46j.jpg');
+body {background-image: url('https://i.imgur.com/xNnG46j.jpg');
 }
