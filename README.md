@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://github.com/kamose/kamose.github.io/assets/images/ronaldo.jpg');
+    background-image: url('https://prnt.sc/Bb9KOTriqRaW');
 }
 
 <!DOCTYPE html>
