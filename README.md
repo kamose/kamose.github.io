@@ -59,7 +59,10 @@
       <p id="paragraph5">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
     </div>
-    
+      <div class="paragraph-container">
+      <p id="paragraph11">Gasesti pe calendar langa mini mapa detalii despre ora fiecaruia eveniment</p> 
+      <button class="copy-button" onclick="copyToClipboard('paragraph11')">Copy</button>
+    </div>
   </div>
 
   <div class="column">
