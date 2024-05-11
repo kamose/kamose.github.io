@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://imgur.com/a/UYbSpIz);
+    background-image: url(https://i.imgur.com/xNnG46j.jpg);
 }
 
 <!DOCTYPE html>
