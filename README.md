@@ -24,12 +24,25 @@
 <!-- Paragraph 6 -->
 <p id="paragraph6">This is the sixth paragraph.</p>
 <button onclick="copyToClipboard('paragraph6')">Copy</button>
-
 <!-- Paragraph 7 -->
 <p id="paragraph7">This is the seventh paragraph.</p>
 <button onclick="copyToClipboard('paragraph7')">Copy</button>
-
+<!-- Paragraph 7 -->
+<p id="paragraph7">This is the seventh paragraph.</p>
+<button onclick="copyToClipboard('paragraph7')">Copy</button>
 <script>
+  <!-- Paragraph 7 -->
+<p id="paragraph7">This is the seventh paragraph.</p>
+<button onclick="copyToClipboard('paragraph7')">Copy</button>
+  <!-- Paragraph 7 -->
+<p id="paragraph7">This is the seventh paragraph.</p>
+<button onclick="copyToClipboard('paragraph7')">Copy</button>
+  <!-- Paragraph 7 -->
+<p id="paragraph7">This is the seventh paragraph.</p>
+<button onclick="copyToClipboard('paragraph7')">Copy</button>
+  <!-- Paragraph 7 -->
+<p id="paragraph7">This is the seventh paragraph.</p>
+<button onclick="copyToClipboard('paragraph7')">Copy</button>
 function copyToClipboard(elementId) {
   var copyText = document.getElementById(elementId);
   var textArea = document.createElement("textarea");
