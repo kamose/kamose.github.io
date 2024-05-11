@@ -51,6 +51,10 @@
       <p id="paragraph3">Cata decide daca baga sau nu barbut.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph3')">Copy</button>
     </div>
+        <div class="paragraph-container">
+      <p id="paragraph7">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+    </div>
   </div>
 
   <div class="column">
