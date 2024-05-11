@@ -1,4 +1,11 @@
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Copy Paragraphs</title> </head> <body>  <h1>Copy Paragraphs</h1>  
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Copy Paragraphs</title>
+  </head>
+  <body>  <h1>Copy Paragraphs</h1>  
   <!-- Paragraph 1 --> 
   <p id="paragraph1">Im sorry i cant help you</p> 
   <button onclick="copyToClipboard('paragraph1')">Copy</button>  
