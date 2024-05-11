@@ -52,38 +52,38 @@
       <button class="copy-button" onclick="copyToClipboard('paragraph3')">Copy</button>
     </div>
         <div class="paragraph-container">
-      <p id="paragraph7">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+      <p id="paragraph4">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
     </div>
      <div class="paragraph-container">
-      <p id="paragraph4">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
-      <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
+      <p id="paragraph5">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
+      <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
     </div>
     
   </div>
 
   <div class="column">
     <div class="paragraph-container">
-      <p id="paragraph7">https://forumalaska.ro/topic/41248-ghidcompletpvm//</p> 
+      <p id="paragraph6">https://forumalaska.ro/topic/41248-ghidcompletpvm//</p> 
+      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+    </div>
+
+    <div class="paragraph-container">
+      <p id="paragraph7">https://forumalaska.ro/topic/38132-ghidrun-uri//</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph7')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph5">https://forumalaska.ro/topic/38132-ghidrun-uri//</p> 
-      <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
-    </div>
-
-    <div class="paragraph-container">
-      <p id="paragraph6">https://forumalaska.ro/topic/21989-ghidmonster-card//</p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+      <p id="paragraph8">https://forumalaska.ro/topic/21989-ghidmonster-card//</p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph8')">Copy</button>
     </div>
      <div class="paragraph-container">
-      <p id="paragraph6">https://forumalaska.ro/topic/35515-ghidevenimente-permanente/</p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+      <p id="paragraph9">https://forumalaska.ro/topic/35515-ghidevenimente-permanente/</p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph9')">Copy</button>
     </div>
     <div class="paragraph-container">
-      <p id="paragraph6">https://forumalaska.ro/topic/40506-stagiu-campionevolutii-itememisiuni//</p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+      <p id="paragraph10">https://forumalaska.ro/topic/40506-stagiu-campionevolutii-itememisiuni//</p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph10')">Copy</button>
     </div>
   </div>
 
