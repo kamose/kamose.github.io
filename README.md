@@ -1,3 +1,5 @@
+![370684707_132915603218994_364455534809143991_n](https://github.com/kamose/kamose.github.io/assets/52388598/9cbd0922-a29e-4d34-b288-05dcfeca65d0)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
