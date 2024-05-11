@@ -26,8 +26,8 @@
   
   .copy-button {
     position: absolute;
-    top: 10px; /* Ajustăm poziția butonului de copiere */
-    right: -20px; /* Ajustăm poziția butonului de copiere */
+    top: 20px; /* Ajustăm poziția butonului de copiere */
+    right: -30px; /* Ajustăm poziția butonului de copiere */
   }
 </style>
 </head>
