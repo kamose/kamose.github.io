@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://github.com/kamose/kamose.github.io/assets/images/numele_imaginii.jpg');
+    background-image: url('https://github.com/kamose/kamose.github.io/assets/images/370684707_132915603218994_364455534809143991_n.jpg');
 }
 <!DOCTYPE html>
 <html lang="en">
