@@ -4,8 +4,26 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Raspunsuri pentru fraieri</title>
+<style>
+  body {
+    background-image: url('https://i.imgur.com/xNnG46j.jpg');
+  }
+</style>
 </head>
 <body>  
+  <h1>Raspunsuri pentru fraieri</h1>  
+
+  <p id="paragraph1">Im sorry i cant help you</p> 
+  <button onclick="copyToClipboard('paragraph1')">Copy</button>  
+
+  <!-- Alte elemente HTML -->
+
+  <script>
+    // JavaScript code
+  </script>
+</body>
+</html>
+
   <h1>Raspunsuri pentru fraieri</h1>  
 
   <p id="paragraph1">Im sorry i cant help you</p> 
@@ -42,5 +60,3 @@ function copyToClipboard(elementId) {
 </script>
 </body>
 </html>
-
-body {background-image: url('https://i.imgur.com/xNnG46j.jpg');}
