@@ -7,6 +7,7 @@
 <style>
   body {
     background-image: url('https://i.imgur.com/xNnG46j.jpg');
+  color: white;
   }
 </style>
 </head>
