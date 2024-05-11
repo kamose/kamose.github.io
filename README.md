@@ -38,34 +38,38 @@
 
   <div class="column">
     <div class="paragraph-container">
-      <p id="paragraph1">Im sorry i cant help you</p> 
+      <p id="paragraph1">Se anunta daca o sa fie ox</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph1')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph2">did you make a ticket?.</p> 
+      <p id="paragraph2">Fa ticket pe discord.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph2')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph3">This is the third paragraph.</p> 
+      <p id="paragraph3">Cata decide daca baga sau nu barbut.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph3')">Copy</button>
     </div>
   </div>
 
   <div class="column">
     <div class="paragraph-container">
-      <p id="paragraph4">This is the fourth paragraph.</p> 
+      <p id="paragraph4">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph5">This is the fifth paragraph.</p> 
+      <p id="paragraph5">https://forumalaska.ro/topic/38132-ghidrun-uri//</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph6">This is the sixth paragraph.</p>
+      <p id="paragraph6">https://forumalaska.ro/topic/21989-ghidmonster-card//</p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+    </div>
+        <div class="paragraph-container">
+      <p id="paragraph7">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
       <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
     </div>
   </div>
