@@ -64,8 +64,8 @@
 
   <div class="column">
     <div class="paragraph-container">
-      <p id="paragraph4">https://forumalaska.ro/topic/41248-ghidcompletpvm//</p> 
-      <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
+      <p id="paragraph7">https://forumalaska.ro/topic/41248-ghidcompletpvm//</p> 
+      <button class="copy-button" onclick="copyToClipboard('paragraph7')">Copy</button>
     </div>
 
     <div class="paragraph-container">
