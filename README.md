@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copy Paragraphs</title>
+    <title>Raspunsuri pentru fraieri</title>
   </head>
   <body>  <h1>Copy Paragraphs</h1>  
   <!-- Paragraph 1 --> 
