@@ -16,19 +16,6 @@
   <p id="paragraph1">Im sorry i cant help you</p> 
   <button onclick="copyToClipboard('paragraph1')">Copy</button>  
 
-  <!-- Alte elemente HTML -->
-
-  <script>
-    // JavaScript code
-  </script>
-</body>
-</html>
-
-  <h1>Raspunsuri pentru fraieri</h1>  
-
-  <p id="paragraph1">Im sorry i cant help you</p> 
-  <button onclick="copyToClipboard('paragraph1')">Copy</button>  
-
   <p id="paragraph2">did you make a ticket?.</p> 
   <button onclick="copyToClipboard('paragraph2')">Copy</button>  
 
