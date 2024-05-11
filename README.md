@@ -55,6 +55,11 @@
       <p id="paragraph7">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
       <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
     </div>
+     <div class="paragraph-container">
+      <p id="paragraph4">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
+      <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
+    </div>
+    
   </div>
 
   <div class="column">
@@ -72,8 +77,12 @@
       <p id="paragraph6">https://forumalaska.ro/topic/21989-ghidmonster-card//</p>
       <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
     </div>
-        <div class="paragraph-container">
-      <p id="paragraph7">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
+     <div class="paragraph-container">
+      <p id="paragraph6">https://forumalaska.ro/topic/35515-ghidevenimente-permanente/</p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph6">https://forumalaska.ro/topic/40506-stagiu-campionevolutii-itememisiuni//</p>
       <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
     </div>
   </div>
