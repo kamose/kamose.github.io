@@ -15,11 +15,7 @@
 
   <p id="paragraph1">Im sorry i cant help you</p> 
   <button onclick="copyToClipboard('paragraph1')">Copy</button>  
-
-  <!-- Alte elemente HTML -->
-
   <script>
-    // JavaScript code
   </script>
 </body>
 </html>
