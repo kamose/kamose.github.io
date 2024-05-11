@@ -64,7 +64,7 @@
 
   <div class="column">
     <div class="paragraph-container">
-      <p id="paragraph4">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
+      <p id="paragraph4">https://forumalaska.ro/topic/41248-ghidcompletpvm/</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
     </div>
 
