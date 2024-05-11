@@ -15,7 +15,8 @@
   }
   
   .column {
-    width: 45%;
+    width: 47%;
+    margin-right: 20px; /* Adaugăm spațiu între coloane */
   }
   
   .paragraph-container {
@@ -25,10 +26,8 @@
   
   .copy-button {
     position: absolute;
-    top: 50%;
-    right: 0;
-    transform: translateY(-50%);
-    margin-left: 10px;
+    top: 10px; /* Ajustăm poziția butonului de copiere */
+    right: 10px; /* Ajustăm poziția butonului de copiere */
   }
 </style>
 </head>
