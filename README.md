@@ -1,7 +1,3 @@
-body {
-    background-image: url('https://i.imgur.com/xNnG46j.jpg');
-}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,3 +42,7 @@ function copyToClipboard(elementId) {
 </script>
 </body>
 </html>
+
+body {
+    background-image: url('https://i.imgur.com/xNnG46j.jpg');
+}
