@@ -90,7 +90,7 @@
     </div>
       <div class="paragraph-container">
       <p id="paragraph12">https://forumalaska.ro/topic/38517-prezentare-skinuricostume//</p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph10')">Copy</button>
+      <button class="copy-button" onclick="copyToClipboard('paragraph12')">Copy</button>
     </div>
   </div>
 
