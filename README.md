@@ -81,7 +81,7 @@
       <button class="copy-button" onclick="copyToClipboard('paragraph8')">Copy</button>
     </div>
     <div class="paragraph-container">
-      <p id="paragraph9">Evenimente permanente<a href="https://forumalaska.ro/topic/35515-ghidevenimente-permanente/" target="_blank">Ghid evenimente permanente</a></p>
+      <p id="paragraph9"><a href="https://forumalaska.ro/topic/35515-ghidevenimente-permanente/" target="_blank">Ghid evenimente permanente</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph9')">Copy</button>
     </div>
     <div class="paragraph-container">
