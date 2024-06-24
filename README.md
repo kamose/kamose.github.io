@@ -6,7 +6,9 @@
 <title>Raspunsuri pentru fraieri</title>
 <style>
   body {
-    background-image: url('https://images8.alphacoders.com/132/thumb-1920-1325725.png auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('https://i.imgur.com/OxnnEdh.jpg'); 
+    background-size: cover;
+    background-position: center;
     color: white;
     font-family: Arial, sans-serif;
     padding: 20px;
@@ -19,6 +21,8 @@
     margin-right: 20px;
     display: flex;
     flex-direction: column; /* Așezăm elementele pe coloană */
+    background-color: rgba(0, 0, 0, 0.5); /* Adăugăm un fundal semitransparent pentru a evidenția textul */
+    padding: 20px;
   }
   
   .paragraph-container {
@@ -30,6 +34,10 @@
   
   .copy-button {
     margin-left: 10px; /* Adăugăm un spațiu mic între buton și text */
+  }
+  
+  p {
+    margin: 0; /* Eliminăm marginile pentru paragrafe pentru a îmbunătăți aspectul */
   }
 </style>
 </head>
@@ -109,26 +117,4 @@
       <button class="copy-button" onclick="copyToClipboard('paragraph16')">Copy</button>
     </div>
     <div class="paragraph-container">
-      <p id="paragraph17"><a href="https://forumalaska.ro/topic/41246-ghidpersonalizare/" target="_blank">Ghid personalizare</a></p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph17')">Copy</button>
-    </div>
-    <div class="paragraph-container">
-      <p id="paragraph18"><a href="https://forumalaska.ro/topic/42635-ghid-battlepass-uri-existente-pe-server/" target="_blank">Ghid battlepass-uri existente pe server</a></p>
-      <button class="copy-button" onclick="copyToClipboard('paragraph18')">Copy</button>
-    </div>
-  </div>
-
-  <script>
-function copyToClipboard(elementId) {
-  var element = document.getElementById(elementId);
-  var copyText = element.querySelector('a') ? element.querySelector('a').href : element.textContent;
-  var textArea = document.createElement("textarea");
-  textArea.value = copyText;
-  document.body.appendChild(textArea);
-  textArea.select();
-  document.execCommand("copy");
-  document.body.removeChild(textArea);
-}
-</script>
-</body>
-</html>
+      <p id="paragraph17"><a href="https://forumalaska.ro/topic/41246-ghidpersona
