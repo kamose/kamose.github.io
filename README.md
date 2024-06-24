@@ -51,54 +51,54 @@
       <p id="paragraph3">Cata decide daca baga sau nu barbut.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph3')">Copy</button>
     </div>
-        <div class="paragraph-container">
+    <div class="paragraph-container">
       <p id="paragraph4">Misiunea o iei de la magazinu general si ciclopii ii gasesti in mapa alaska </p>
       <button class="copy-button" onclick="copyToClipboard('paragraph4')">Copy</button>
     </div>
-     <div class="paragraph-container">
+    <div class="paragraph-container">
       <p id="paragraph5">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
     </div>
-      <div class="paragraph-container">
-      <p id="paragraph11">Gasesti pe calendar langa mini mapa un C cu  orele tuturor evenimentelor </p> 
+    <div class="paragraph-container">
+      <p id="paragraph11">Gasesti pe calendar langa mini mapa un C cu orele tuturor evenimentelor </p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph11')">Copy</button>
     </div>
   </div>
 
   <div class="column">
     <div class="paragraph-container">
-      <p id="paragraph6">https://forumalaska.ro/topic/41248-ghidcompletpvm//</p> 
+      <p id="paragraph6"><a href="https://forumalaska.ro/topic/41248-ghidcompletpvm//" target="_blank">Ghid complet PvM</a></p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph6')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph7">https://forumalaska.ro/topic/38132-ghidrun-uri//</p> 
+      <p id="paragraph7"><a href="https://forumalaska.ro/topic/38132-ghidrun-uri//" target="_blank">Ghid run-uri</a></p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph7')">Copy</button>
     </div>
 
     <div class="paragraph-container">
-      <p id="paragraph8">https://forumalaska.ro/topic/21989-ghidmonster-card//</p>
+      <p id="paragraph8"><a href="https://forumalaska.ro/topic/21989-ghidmonster-card//" target="_blank">Ghid monster card</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph8')">Copy</button>
     </div>
-     <div class="paragraph-container">
-      <p id="paragraph9">https://forumalaska.ro/topic/35515-ghidevenimente-permanente/</p>
+    <div class="paragraph-container">
+      <p id="paragraph9">Evenimente permanente<a href="https://forumalaska.ro/topic/35515-ghidevenimente-permanente/" target="_blank">Ghid evenimente permanente</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph9')">Copy</button>
     </div>
     <div class="paragraph-container">
-      <p id="paragraph10">https://forumalaska.ro/topic/40506-stagiu-campionevolutii-itememisiuni//</p>
+      <p id="paragraph10"><a href="https://forumalaska.ro/topic/40506-stagiu-campionevolutii-itememisiuni//" target="_blank">Stagiu campion, evoluții iteme, misiuni</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph10')">Copy</button>
     </div>
-      <div class="paragraph-container">
-      <p id="paragraph12">https://forumalaska.ro/topic/38517-prezentare-skinuricostume//</p>
+    <div class="paragraph-container">
+      <p id="paragraph12"><a href="https://forumalaska.ro/topic/38517-prezentare-skinuricostume//" target="_blank">Prezentare skinuri și costume</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph12')">Copy</button>
     </div>
   </div>
 
   <script>
 function copyToClipboard(elementId) {
-  var copyText = document.getElementById(elementId);
+  var copyText = document.getElementById(elementId).textContent;
   var textArea = document.createElement("textarea");
-  textArea.value = copyText.textContent;
+  textArea.value = copyText;
   document.body.appendChild(textArea);
   textArea.select();
   document.execCommand("copy");
