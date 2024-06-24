@@ -92,6 +92,30 @@
       <p id="paragraph12"><a href="https://forumalaska.ro/topic/38517-prezentare-skinuricostume//" target="_blank">Prezentare skinuri și costume</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph12')">Copy</button>
     </div>
+    <div class="paragraph-container">
+      <p id="paragraph13"><a href="https://forumalaska.ro/topic/42267-ghidpescuit/" target="_blank">Ghid pescuit</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph13')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph14"><a href="https://forumalaska.ro/topic/40164-mount-uri-pet-uri-existente-pe-server/" target="_blank">Mount-uri și pet-uri existente pe server</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph14')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph15"><a href="https://forumalaska.ro/topic/38477-ghidcurele/" target="_blank">Ghid curele</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph15')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph16"><a href="https://forumalaska.ro/topic/41621-prezentarea-skinurilor-de-pet/" target="_blank">Prezentarea skinurilor de pet</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph16')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph17"><a href="https://forumalaska.ro/topic/41246-ghidpersonalizare/" target="_blank">Ghid personalizare</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph17')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph18"><a href="https://forumalaska.ro/topic/42635-ghid-battlepass-uri-existente-pe-server/" target="_blank">Ghid battlepass-uri existente pe server</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph18')">Copy</button>
+    </div>
   </div>
 
   <script>
