@@ -6,7 +6,7 @@
 <title>Raspunsuri pentru fraieri</title>
 <style>
   body {
-    background-image: url('https://images.pexels.com/photos/954739/pexels-photo-954739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('https://images8.alphacoders.com/132/thumb-1920-1325725.png auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     color: white;
     font-family: Arial, sans-serif;
     padding: 20px;
