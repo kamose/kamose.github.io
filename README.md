@@ -7,8 +7,8 @@
 <style>
   body {
     background-image: url('https://i.imgur.com/OxnnEdh.jpg'); 
-    background-size: cover;
-    background-position: center;
+    background-size: cover; 
+    background-position: center; 
     color: white;
     font-family: Arial, sans-serif;
     padding: 20px;
@@ -117,4 +117,26 @@
       <button class="copy-button" onclick="copyToClipboard('paragraph16')">Copy</button>
     </div>
     <div class="paragraph-container">
-      <p id="paragraph17"><a href="https://forumalaska.ro/topic/41246-ghidpersona
+      <p id="paragraph17"><a href="https://forumalaska.ro/topic/41246-ghidpersonalizare/" target="_blank">Ghid personalizare</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph17')">Copy</button>
+    </div>
+    <div class="paragraph-container">
+      <p id="paragraph18"><a href="https://forumalaska.ro/topic/42635-ghid-battlepass-uri-existente-pe-server/" target="_blank">Ghid battlepass-uri existente pe server</a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph18')">Copy</button>
+    </div>
+  </div>
+
+  <script>
+function copyToClipboard(elementId) {
+  var element = document.getElementById(elementId);
+  var copyText = element.querySelector('a') ? element.querySelector('a').href : element.textContent;
+  var textArea = document.createElement("textarea");
+  textArea.value = copyText;
+  document.body.appendChild(textArea);
+  textArea.select();
+  document.execCommand("copy");
+  document.body.removeChild(textArea);
+}
+</script>
+</body>
+</html>
