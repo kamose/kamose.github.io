@@ -66,7 +66,7 @@
     </div>
     
     <div class="paragraph-container">
-      <p id="paragraph5">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion.</p> 
+      <p id="paragraph5">Elodia poate aparea in toate mapele in afara de map1/map2 si map2 campion/ map3 campion si v4.</p> 
       <button class="copy-button" onclick="copyToClipboard('paragraph5')">Copy</button>
     </div>
     
