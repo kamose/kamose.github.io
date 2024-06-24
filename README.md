@@ -96,7 +96,8 @@
 
   <script>
 function copyToClipboard(elementId) {
-  var copyText = document.getElementById(elementId).textContent;
+  var element = document.getElementById(elementId);
+  var copyText = element.querySelector('a') ? element.querySelector('a').href : element.textContent;
   var textArea = document.createElement("textarea");
   textArea.value = copyText;
   document.body.appendChild(textArea);
