@@ -1,8 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    background-image: url('https://i.imgur.com/OxnnEdh.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* restul CSS-ului tău */
+</style>
 <title>Raspunsuri pentru fraieri</title>
 <style>
   body {
