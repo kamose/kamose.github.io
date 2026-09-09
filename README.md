@@ -10,47 +10,44 @@
     justify-content: space-between;
   }
 
-  /* restul CSS-ului tău */
-</style>
-<title>Raspunsuri pentru fraieri</title>
-<style>
-  body {
-    background-image: url('https://i.imgur.com/OxnnEdh.jpg'); /* Adaugăm imaginea de fundal */
-    background-size: cover; /* Asigurăm că imaginea ocupă întregul spațiu disponibil */
-    background-position: center; /* Centrăm imaginea pe ecran */
-    color: white;
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-  }
-  
   .column {
-    width: 30%; /* Ajustăm lățimea pentru a include o a treia coloană */
+    width: 30%;
     margin-right: 20px;
     display: flex;
-    flex-direction: column; /* Așezăm elementele pe coloană */
-    background-color: rgba(0, 0, 0, 0.5); /* Adăugăm un fundal semitransparent pentru a evidenția textul */
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 20px;
   }
-  
-  .paragraph-container {
-    position: relative;
-    display: flex; /* Așezăm butonul și textul pe aceeași linie */
-    align-items: center; /* Aliniem vertical butonul și textul */
-    margin-bottom: 20px;
-  }
-  
-  .copy-button {
-    margin-left: 10px; /* Adăugăm un spațiu mic între buton și text */
-  }
-  
-  p {
-    margin: 0; /* Eliminăm marginile pentru paragrafe pentru a îmbunătăți aspectul */
-  }
+
+  /* restul CSS */
 </style>
-</head>
-<body>  
+
+<h1>Raspunsuri pentru fraieri</h1>
+
+<div class="column">
+    ...
+</div>
+
+<div class="column">
+    ...
+</div>
+
+<div class="column">
+    ...
+</div>
+
+<script>
+  function copyToClipboard(elementId) {
+    var element = document.getElementById(elementId);
+    var copyText = element.querySelector('a') ? element.querySelector('a').href : element.textContent;
+    var textArea = document.createElement("textarea");
+    textArea.value = copyText;
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand("copy");
+    document.body.removeChild(textArea);
+  }
+</script>
   <h1>Raspunsuri pentru fraieri</h1>  
 
   <div class="column">
