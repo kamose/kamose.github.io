@@ -139,7 +139,7 @@
       <button class="copy-button" onclick="copyToClipboard('paragraph18')">Copy</button>
     </div>
         <div class="paragraph-container">
-      <p id="paragraph19"><a href="https://forumalaska.ro/topic/44905-ghidmisiuni/" target="_blank">Ghid battlepass-uri existente pe server</a></p>
+      <p id="paragraph19"><a href="https://forumalaska.ro/topic/44905-ghidmisiuni/" target="_blank">Ghid Misiuni</a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph19')">Copy</button>
     </div>
   </div>
