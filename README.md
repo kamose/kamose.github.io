@@ -142,6 +142,10 @@
       <p id="paragraph19"><a href="https://forumalaska.ro/topic/44905-ghidmisiuni/" target="_blank">Ghid Misiuni </a></p>
       <button class="copy-button" onclick="copyToClipboard('paragraph19')">Copy</button>
     </div>
+        <div class="paragraph-container">
+      <p id="paragraph20"><a href="https://forumalaska.ro/topic/38131-ghidupgrade-armearmuriaccesorii/" target="_blank">Ghid evolutie iteme rege </a></p>
+      <button class="copy-button" onclick="copyToClipboard('paragraph20')">Copy</button>
+    </div>
   </div>
 
   <script>
